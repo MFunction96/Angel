@@ -1,0 +1,18 @@
+Title: iPad can't boot up after upgrading(iPad升级后无法开机)
+
+Description:
+
+My iPad can not boot up after I performed upgrade procedure. Two days ago, I failed to install an application called "Canvas Student" on my iPad. The apple store told me (that) I had to upgrade the system to install that application. Then, I clicked the upgrade button and put aside it. 
+After a while, I noticed something went wrong. It stuck at the white screen with an apple, along with sudden black screen for a second, then it would be back to the white screen again and again (Show them the video). This is the video I captured. I can't do anything to recover it. So, I come here to seek help. Could you recover it? I hope it won't lose my data. If possible, please backup my data to my USB device. Thanks a lot.
+
+(我的iPad升级后无法开机，两天前我想安装"Canvas Student"，但苹果商店说必须升级系统才能安装，然后我点了升级，就把iPad放在一边了。过了一会儿我发现iPad不太对劲，卡在白屏界面，会黑屏一秒后再回到白屏，以此往复（给他们看你发给我的视频）。我没办法恢复回去，没法做任何事，于是我来店里看看能不能修。我希望别丢数据，如果可以的话，可否把里面的资料存到我的U盘里？十分感谢。)
+
+Q: Did you process any extra operations during upgrading?（在升级期间有没有做额外操作）
+A: No. I did nothing. Just followwed the hint to click the upgrade button with no more operations.（除了按照提示点了升级，莫得额外操作）
+
+Q: Could you provide your purchase credit or warranty prove?（有没有购买证明或者保修单）
+A: (Show your device registory in Apple ID)（你给他们看你的苹果ID里的设备注册信息，你的iPad应该在里面，另一个角度提供，最近找一找。）
+
+Q: Which version XXXXXXXX(只要问前后版本之类的问题)
+A: I could not determine which version iPad was. (I don't know)(类似用“我不知道”回答)
+
